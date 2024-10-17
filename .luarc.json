@@ -1,0 +1,34 @@
+{
+    "diagnostics.globals": [
+        "__DebugAdapter",
+        "__Profiler"
+    ],
+    "runtime.builtin": {
+        "basic": "default",
+        "bit": "default",
+        "bit32": "default",
+        "builtin": "default",
+        "coroutine": "disable",
+        "debug": "disable",
+        "ffi": "default",
+        "io": "disable",
+        "jit": "default",
+        "math": "disable",
+        "os": "disable",
+        "package": "disable",
+        "string": "default",
+        "string.buffer": "default",
+        "table": "default",
+        "table.clear": "default",
+        "table.new": "default",
+        "utf8": "default"
+    },
+    "runtime.version": "Lua 5.2",
+    "runtime.special": {
+        "__object_name": "type"
+    },
+    "runtime.plugin": "/home/rai/dev/luals/factorio/plugin.lua",
+    "workspace.library": [
+        "/home/rai/dev/luals/factorio/library"
+    ]
+}

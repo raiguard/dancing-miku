@@ -1,0 +1,10 @@
+{
+  "name": "miku",
+  "version": "1.0.0",
+  "title": "Miku",
+  "description": "Ievan Polkka!",
+  "author": "raiguard",
+  "factorio_version": "2.0",
+  "dependencies": [ "base >= 2.0.0" ],
+  "spoiling_required": true
+}
