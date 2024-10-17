@@ -1,5 +1,5 @@
 # Miku for Factorio
 
-Adds your new best friend.
+Ievan Polkka! Adds your new best friend.
 
-Get on the [Factorio mod portal](https://mods.factorio.com/mod/miku).
+Get on the [Factorio mod portal](https://mods.factorio.com/mod/dancing-miku).
