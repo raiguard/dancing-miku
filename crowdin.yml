@@ -3,8 +3,8 @@ project_id_env: CROWDIN_FACTORIO_MODS_ID
 preserve_hierarchy: true
 
 files:
-  - source: /locale/en/miku.cfg
-    dest: miku/miku.ini
+  - source: /locale/en/dancing-miku.cfg
+    dest: dancing-miku/dancing-miku.ini
     translation: /locale/%two_letters_code%/%original_file_name%
     type: ini
     update_option: update_as_unapproved
