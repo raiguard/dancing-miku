@@ -7,7 +7,7 @@
   "contact": "https://github.com/raiguard/dancing-miku",
   "homepage": "https://github.com/raiguard/dancing-miku",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0.0"],
+  "dependencies": ["base >= 2.0.31"],
   "spoiling_required": true,
   "package": {
     "ignore": ["crowdin.yml"],
